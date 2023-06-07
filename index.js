@@ -77,7 +77,7 @@ const Solution = async () => {
       theWordsGettingTranslated,
       "utf8"
     );
-    console.log("Translated Successfully");
+    console.log("Task Completed  Successfully");
   } catch (err) {
     console.log("Translation Failed", err);
   }
